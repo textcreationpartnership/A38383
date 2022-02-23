@@ -1,0 +1,1153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's black tribunal being the characters of King Charles the First, and the nobility that suffer'd for him.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38383</idno>
+            <idno type="STC">Wing E2950</idno>
+            <idno type="STC">ESTC R40512</idno>
+            <idno type="EEBO-CITATION">19342263</idno>
+            <idno type="OCLC">ocm 19342263</idno>
+            <idno type="VID">108734</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38383)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108734)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1668:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's black tribunal being the characters of King Charles the First, and the nobility that suffer'd for him.</title>
+               </titleStmt>
+               <extent>12 + p. : ports.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for E.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of imprint suggested by Wing.</note>
+                  <note>Imperfect: all after p. 12 wanting: pages cropped and stained with some loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Great Britain --  Biography.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108734:1" rendition="simple:additions"/>
+            <p>
+               <hi>England's Black Tribunal;</hi> BEING THE Characters of King <hi>CHARLES</hi> the Firſt, and the Nobility that Suffer'd for him.</p>
+            <figure/>
+            <q>
+               <p>Ecce Spectaculum dignum ad quod reſpiciat Deus operi ſuo intentus, Vir fortis cum mala fortuna compoſitus.</p>
+               <bibl>
+                  <hi>Sen. de Prov. c. 2.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>E. M.</hi> near <hi>White-Hall.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="king">
+               <pb facs="tcp:108734:2"/>
+               <head>On the Bleſſed Martyr King <hi>Charles</hi> the Firſt.</head>
+               <p>
+                  <figure>
+                     <figDesc>portrait of King Charles the First</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <head>Written on Himſelf, a little before his Death.</head>
+                  <l>
+                     <hi>LET them beſtow on every Gate a Limb,</hi>
+                  </l>
+                  <l>
+                     <hi>Then open all my Veins, that I may ſwim</hi>
+                  </l>
+                  <l>
+                     <hi>To thee my Maker, in that crimſon Lake,</hi>
+                  </l>
+                  <l>
+                     <hi>Then place my parboil'd Head upon a Stake,</hi>
+                  </l>
+                  <l>
+                     <hi>Scatter my Aſhes, ſtrew them in the Air;</hi>
+                  </l>
+                  <l>
+                     <hi>Lord, ſince thou knoweſt where all theſe Atoms are?</hi>
+                  </l>
+                  <l>
+                     <hi>I'm hopeful thou'lt recover once my Duſt,</hi>
+                  </l>
+                  <l>
+                     <hi>And confident thou'lt raiſe me with the Juſt.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>
+                     <hi>Written by the Marquiſs of</hi> Montroſs, <hi>with the Point of his Sword on the Sands of</hi> Leith, 1648.</head>
+                  <l>GREAT, Good and Juſt, could I but rate</l>
+                  <l>My Grief, and thy too rigid Fate,</l>
+                  <l>I'd weep the World to ſuch a Strain,</l>
+                  <l>As it ſhould deluge once again.</l>
+                  <l>But ſince thy loud-tongu'd Blood, demands Supplies,</l>
+                  <l>More from <hi>Briareus'</hi> Hands, than <hi>Argus'</hi> Eyes,</l>
+                  <l>I'll ſing thy Obſequies in Trumpet Sounds,</l>
+                  <l>And write thy Epitaph in Blood and Wounds.</l>
+               </lg>
+               <lg>
+                  <head>Turn'd into <hi>Latin</hi> Verſe, by his Tutor; thus,</head>
+                  <l>CAROLE, <hi>Si poſſem Lacrymis Aequare Dolorem</hi>
+                  </l>
+                  <l>
+                     <hi>Ipſe meum fatum<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> tuum, tua funer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> flerem,</hi>
+                  </l>
+                  <l>
+                     <hi>Ut Tellus nitidis rurſum ſtagnaret ab undis:</hi>
+                  </l>
+                  <l>
+                     <hi>Sanguis at ille tuus quum vocem ad ſidera tollat,</hi>
+                  </l>
+                  <l>
+                     <hi>At<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> manus</hi> Briarei <hi>mage quam</hi> Argi <hi>lumina poſcat</hi>
+                  </l>
+                  <l>
+                     <hi>Exequias celebrabo tuas clangore Tubarum,</hi>
+                  </l>
+                  <l>
+                     <hi>Et Tumulo inſcr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ham profuſo Sanguine Carmen:</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="knight">
+               <pb n="3" facs="tcp:108734:2"/>
+               <p>SIR <hi>Bevil Granville,</hi> was a Knight of u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>daunted Val<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, which he never fail'd to exert for the Ser<g ref="char:EOLhyphen"/>vice of his King and Coun<g ref="char:EOLhyphen"/>try. He was a Gentleman of a good Family, and well skil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d in martial Aff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>irs; but being over-power'd by the ſuperior Number of the Rebels, was k<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll'd at <hi>Lanſ<g ref="char:EOLhyphen"/>down</hi> Fight, whence his Family have the Title of Lord <hi>Lanſdown:</hi> Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s was the End of this Great Man, who was worthily lament<g ref="char:EOLhyphen"/>ed by every true, loyal and faithful Subject.</p>
+               <p>
+                  <figure>
+                     <figDesc>portrait of Sir Bevil Granville</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>
+                     <hi>HE was a moſt couragious Knight,</hi>
+                  </l>
+                  <l>
+                     <hi>And bravely for his King did fight,</hi>
+                  </l>
+                  <l>
+                     <hi>As long as he had Power to whield</hi>
+                  </l>
+                  <l>
+                     <hi>The Sword, and nobly keep the Field;</hi>
+                  </l>
+                  <l>
+                     <hi>But when his Foes did him ſurround</hi>
+                  </l>
+                  <l>
+                     <hi>At</hi> Lanſdown <hi>Fight, with many a Wound,</hi>
+                  </l>
+                  <l>
+                     <hi>He bravely fell, his Death acquir'd,</hi>
+                  </l>
+                  <l>
+                     <hi>And thus with Honour he expir'd.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="viscount">
+               <p>NOble Viſcount <hi>Falkland</hi> appeared at firſt in De<g ref="char:EOLhyphen"/>fence of his Maſter, and ad<g ref="char:EOLhyphen"/>ded no ſmall Reputation to the King's Army. He com<g ref="char:EOLhyphen"/>manded a Party at the firſt Battle of <hi>Newberry,</hi> where the Rebels under the Earl of <hi>Eſſex</hi> routed the King's For<g ref="char:EOLhyphen"/>ces, and this valiant Noble<g ref="char:EOLhyphen"/>man was ſlain, bravely De<g ref="char:EOLhyphen"/>fending his Prince's Cauſe He was a Perſon of great Learning, and well skill'd in Poetry, Painting and Mu<g ref="char:EOLhyphen"/>ſick, and had other remark<g ref="char:EOLhyphen"/>able Qualifications, to ren<g ref="char:EOLhyphen"/>der him aimable and eſteem<g ref="char:EOLhyphen"/>ed by loyal Men.</p>
+               <p>
+                  <figure>
+                     <figDesc>portrait of Viscount of Falkland</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>
+                     <hi>FAlkland the Wiſe as well as Great, chief Secretary to the Sta<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.</hi>
+                  </l>
+                  <l>
+                     <hi>And Muſe, his Pen and Sword did whield</hi>
+                  </l>
+                  <l>
+                     <hi>And laid them down in bloody Field: For at the Battle of</hi> Newberry</l>
+                  <l>
+                     <hi>As Voluntier, moſt neceſſary, to right his King, he loſt his Life,</hi>
+                  </l>
+                  <l>
+                     <hi>By bloody Rebels in the Strife.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="earl">
+               <pb n="4" facs="tcp:108734:3"/>
+               <p>EArl of <hi>Leitchfield</hi> tho' he was a Youth, yet the tender Age of this young Nob<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eman, was no Stop to his Courage and Loyalty; for he ſcorn'd to ſit ſtill, and his Sovereign to undergo the Inſults of ſuch wretched Tools and Villains, but valiantly ta<g ref="char:EOLhyphen"/>king up and whielding his Sword in his Defence, ſo that he honourably Dy'd in the Field near <hi>Cheſter,</hi> fighting the Rebels, whoſe Death was much lamented, but more eſpecially by the King himſelf, who loved him entirely.</p>
+               <p>
+                  <figure>
+                     <figDesc>portrait of Earl of Leitchfield</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>
+                     <hi>THis tender Youth, as one may call,</hi>
+                  </l>
+                  <l>
+                     <hi>Had by baſe Rebels ſoon his fall;</hi>
+                  </l>
+                  <l>
+                     <hi>In which an Honour there did ſpring,</hi>
+                  </l>
+                  <l>
+                     <hi>A b'ing lamented by his King:</hi>
+                  </l>
+                  <l>
+                     <hi>So Young, and ſo ſoon ſnatch'd away,</hi>
+                  </l>
+                  <l>(<hi>Near</hi> Cheſter, <hi>as the Villains Prey!</hi>)</l>
+                  <l>
+                     <hi>Was much Condol'd and much D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>plor'd,</hi>
+                  </l>
+                  <l>
+                     <hi>A Comely, Valiant, Courteous Lord.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="lord">
+               <p>SIR <hi>Ralph Hopton</hi> com<g ref="char:EOLhyphen"/>manded an Army of the King's in the <hi>Weſt</hi> and beat Sir <hi>William Waller</hi> near <hi>Bath,</hi> and afterwards in the <hi>Devizes,</hi> for which he was made a Lord, but at laſt was routed at <hi>Torrington</hi> by a ſuperior Force; ſo that finding himſelf unable to do h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s King any farther Ser<g ref="char:EOLhyphen"/>vice he retired to the young Prince in <hi>France,</hi> Thus he honourable got free from the Tyrany of the Rebels. and comforted the King his Maſter in Exile, and was a Companion with him in all his Misfortunes.</p>
+               <p>
+                  <figure>
+                     <figDesc>portrait of Sir Ralph Hopton</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>
+                     <hi>LOrd</hi> Hopton, <hi>like an inflam'd</hi> Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, <hi>with Courage fought his Maſters Wars.</hi>
+                  </l>
+                  <l>
+                     <hi>The Victory of</hi> Stration <hi>won,</hi>
+                  </l>
+                  <l>
+                     <hi>And was a Lord made thereupon: But when the Cauſe declin'd, he</hi>
+                  </l>
+                  <l>
+                     <hi>Was forc'd for his Security, to croſs the Sea to ſave his Life.</hi>
+                  </l>
+                  <l>
+                     <hi>From</hi> Oliverians <hi>Hate and Strife.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="earl">
+               <pb n="5" facs="tcp:108734:3"/>
+               <p>EArl of <hi>Carnarven,</hi> he did not forſake his Prince whilſt he had Life, and was killed by the R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bells in the firſt Battle of <hi>Newberry,</hi> where he f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ught ſo coura<g ref="char:EOLhyphen"/>geouſly, as through the Bo<g ref="char:EOLhyphen"/>dies of thouſands to make way for his righ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ful, tho' injur'd. Sovereign to the quiet P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſion of his Im<g ref="char:EOLhyphen"/>perial C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owns again. So unfortunate were the noble and loyal Party, being o<g ref="char:EOLhyphen"/>verpower'd by Numbers of Villians, who ſought the Deſtruction of Church and State, to introduce a Repub<g ref="char:EOLhyphen"/>lican Government.</p>
+               <p>
+                  <figure>
+                     <figDesc>portrait of Earl of Carnarven</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>
+                     <hi>THis Earl was Learned, full of Senſe,</hi>
+                  </l>
+                  <l>
+                     <hi>And only ſought to pleaſe his Prince:</hi>
+                  </l>
+                  <l>
+                     <hi>And Ill Succeſs he had indeed,</hi>
+                  </l>
+                  <l>
+                     <hi>And for his Monarch's ſake did Bleed:</hi>
+                  </l>
+                  <l>
+                     <hi>For vent'ring in the fatal Battle,</hi>
+                  </l>
+                  <l>
+                     <hi>Where Cannons roar, and Guns do rattle,</hi>
+                  </l>
+                  <l>
+                     <hi>At</hi> Newberry <hi>Fight he there was ſtain,</hi>
+                  </l>
+                  <l>
+                     <hi>His Maſter'e Honour to maintain.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="earl">
+               <p>EArl of <hi>Holland</hi> was com<g ref="char:EOLhyphen"/>miſſion'd in 1647 by the then Prince of <hi>Wales,</hi> to raiſe Forces for his Fa<g ref="char:EOLhyphen"/>ther the King, then a Pri<g ref="char:EOLhyphen"/>ſoner in the <hi>Iſle of Wight,</hi> which he did at <hi>Kingſton</hi> in the Face of the Parlia<g ref="char:EOLhyphen"/>ment, but being taken in Battle, was carried to <hi>War<g ref="char:EOLhyphen"/>wick</hi> Caſtle, and thence to the <hi>Tower,</hi> where he loſt his Head for hit Loyalty, I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the mean time the Re<g ref="char:EOLhyphen"/>bels triumph in ther Villa<g ref="char:EOLhyphen"/>ny, breathing nothing but Blood and Murder to every fai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hful Subj<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct and ſincere Loyalliſt.</p>
+               <p>
+                  <figure>
+                     <figDesc>portrait of Earl of Holland</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>
+                     <hi>THis Earl, when he his Maſter view'd, in Danger by a curſed Brood,</hi>
+                  </l>
+                  <l>
+                     <hi>Impriſon'd in the</hi> Iſle of Wight,</l>
+                  <l>
+                     <hi>An Army rais'd to do him Right. The Rebels they the Battle won,</hi>
+                  </l>
+                  <l>
+                     <hi>This Earl was taken and undone, Sent to the</hi> Tower, <hi>then ſoon try'd,</hi>
+                  </l>
+                  <l>
+                     <hi>And for his King a Martyr dy'd.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="marquis">
+               <pb n="6" facs="tcp:108734:4"/>
+               <p>THE Marquiſi of <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntroſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zed <hi>Dumfreis</hi> for the King, rou<g ref="char:EOLhyphen"/>ted the Cov<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n in<g ref="char:EOLhyphen"/>ters a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Perth.</hi> with half their Numb<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts the Lor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Burleigh</hi> at <hi>Aber<g ref="char:EOLunhyphen"/>deen;</hi> and Swa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to Martyrdom it were thro' Sta<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of unrighte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us Blood of the Re<g ref="char:EOLhyphen"/>bels. But at laſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he was taken and executed for his Loyalty.</p>
+               <p>
+                  <figure>
+                     <figDesc>portrait of Marquis of Montrose</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>SCotland, <hi>the Glory of thy Nation,</hi>
+                  </l>
+                  <l>
+                     <hi>Was Great</hi> Montroſs, <hi>of noble Station:</hi>
+                  </l>
+                  <l>
+                     <hi>He for his Royal Maſter ſtood,</hi>
+                  </l>
+                  <l>
+                     <hi>And for his ſake did loſe his Blood:</hi>
+                  </l>
+                  <l>
+                     <hi>But then before Rebellious Foes,</hi>
+                  </l>
+                  <l>
+                     <hi>By cruel Death his Eyes could cloſe,</hi>
+                  </l>
+                  <l>
+                     <hi>He did revenge his Monarch's Death,</hi>
+                  </l>
+                  <l>
+                     <hi>By ſtopping many a Rebel's Breath.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="earl">
+               <p>THE Earl of <hi>Kingſto<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> was a good Sateſma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and compleat Soldier, and ſerved his Prince faithful<g ref="char:EOLunhyphen"/>ly both in Council and it Camp, and fighting bold<g ref="char:EOLunhyphen"/>ly at <hi>Gainsborough</hi> for hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Country's Liberty, ſeale<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that Loyalty with hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Blood in the Field, whic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he had given the moſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> convincing Proofs of, to his Country in his Life time. And thus fell th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Senator and Hero, worthi<g ref="char:EOLhyphen"/>ly lamented by every loya<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Subject, and whoſe Me<g ref="char:EOLunhyphen"/>mory is ſtill precious to this very Day.</p>
+               <p>
+                  <figure>
+                     <figDesc>portrait of Earl of Kingston</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>
+                     <hi>THis Earl, adorn'd with brighteſi Parts, Did alſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſhow the beſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of Hearts<g ref="char:punc">▪</g>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>For Loyalty was in his Blood,</hi>
+                  </l>
+                  <l>
+                     <hi>And for hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> injur'd Monarch ſtood He like the reſt his Life laid down</hi>
+                  </l>
+                  <l>
+                     <hi>To vindicate his Maſter's Crown. At Gainsborough where he did oppoſe<g ref="char:punc">▪</g>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>Was ſlain by Rebels and curſt Foes.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="archbishop">
+               <pb n="7" facs="tcp:108734:4"/>
+               <p>DR. <hi>Laud,</hi> Archbiſhop of <hi>Can<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urbury,</hi> was accuſed in Parliam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt, in 1640. and voted guilty of <hi>High-Treaſon</hi> for no o<g ref="char:EOLhyphen"/>ther Reaſon than endea<g ref="char:EOLhyphen"/>vouring to preſerve O<g ref="char:EOLhyphen"/>der and Decency in the Church<g ref="char:punc">▪</g> and being true to his S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vereign. He was kep<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Priſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ner in the Tow<g ref="char:EOLhyphen"/>er f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur Years and then led f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h to <hi>Tower-Hill,</hi> to ſuffer Martyrdom for the Church and King. He was a Prelate of great Pie<g ref="char:EOLhyphen"/>ty and Learning, and uni<g ref="char:EOLhyphen"/>verſally lamented by al true Churchmen.</p>
+               <p>
+                  <figure>
+                     <figDesc>portrait of William Laud, Archbishop of Canterbury</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>
+                     <hi>ALas!</hi> Elphegus <hi>loſt his Head,</hi>
+                  </l>
+                  <l>
+                     <hi>Who by the</hi> Dan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s <hi>was murthered;</hi>
+                  </l>
+                  <l>
+                     <hi>And</hi> Simon Sudbury <hi>did feel,</hi>
+                  </l>
+                  <l>
+                     <hi>By cruel</hi> Tyler <hi>fatal Steel:</hi>
+                  </l>
+                  <l>
+                     <hi>Juſt ſo, or worſe, good</hi> LAUD, <hi>thou felt,</hi>
+                  </l>
+                  <l>
+                     <hi>Wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſe Sufférings made all Hearts to melt!</hi>
+                  </l>
+                  <l>
+                     <hi>Firm to the Church thou always ſtood,</hi>
+                  </l>
+                  <l>
+                     <hi>And ſeal'd her Charter with thy Blood.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="earl">
+               <p>THE Earl of <hi>Lindſey</hi> was in the King's Army at the Battle of <hi>Edge-hill,</hi> and was there taken Priſoner, but getting his Liberty, he again eſpous'd his Royal Maſter's Quarrel with the greateſt Courage 'till the bloody Battle of <hi>Naſeby,</hi> where the King's Forces were routed by the Rebels, he ſcorn'd to give way, and was kili'd valiantly fighting in the Field. And thus dy'd the valiant Hero in the Bed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f Fame, and is enroll'd a<g ref="char:EOLhyphen"/>mong the Royal Martyrs of <hi>England.</hi>
+               </p>
+               <p>
+                  <figure>
+                     <figDesc>portrait of Earl of Lindsey</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>
+                     <hi>WHat Pity is't that Fortune's Favour Falls not on Men of bright behaviour?</hi>
+                  </l>
+                  <l>
+                     <hi>War makes no Difference of Degree,</hi>
+                  </l>
+                  <l>
+                     <hi>Noble and Baſe die promiſe'ouſly. Yet ſhall the m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ory of the good</hi>
+                  </l>
+                  <l>
+                     <hi>Like</hi> Linſey<hi>'s Earl, who l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt his Blood, or royal Charles at</hi> Noſe<g ref="char:EOLhyphen"/>by <hi>Fight</hi>)</l>
+                  <l>
+                     <hi>Will precious be iE Juſt Men's Sight.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="divine">
+               <pb n="8" facs="tcp:108734:5"/>
+               <p>DR <hi>Hewit,</hi> was a wor<g ref="char:EOLhyphen"/>thy Divine of the Church of <hi>England,</hi> whoſe Loyalty no Threa's nor Premiſes could entice from his Royal Maſter's Service, therefore thought a p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oper Perſon to be diſpatch'd by the Executioner, dying in full Belief of the Reſtora<g ref="char:EOLhyphen"/>tion both of K<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng and Church to theſe then poor drooping Nati<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns: So that neither the Dignity of the Prieſthood could ſave thoſe who moſt rightfully ſer<g ref="char:EOLhyphen"/>ved at the Altar of Al<g ref="char:EOLhyphen"/>mighty God, and then the Churches became Stables.</p>
+               <p>
+                  <figure>
+                     <figDesc>portrait of Dr Hewit, Divine of the Church of England</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>
+                     <hi>BRight Saint, and Reverent Divine,</hi>
+                  </l>
+                  <l>
+                     <hi>Thy Death, as Life do's brightly ſhine!</hi>
+                  </l>
+                  <l>
+                     <hi>Such Faith, ſuch Love, ſuch Charity,</hi>
+                  </l>
+                  <l>
+                     <hi>Tells what a ſort of Man was The<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>!</hi>
+                  </l>
+                  <l>
+                     <hi>And tho' thy Death we do implore,</hi>
+                  </l>
+                  <l>
+                     <hi>'Tis what the Saints endur'd before;</hi>
+                  </l>
+                  <l>
+                     <hi>Our Hope is now, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>u art in Heav'n,</hi>
+                  </l>
+                  <l>
+                     <hi>Where bleſt Rewards to thee are giv'n.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="earl">
+               <p>THE Earl of <hi>Northampton</hi> (who w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Father to the late Biſhop of <hi>London</hi>) join<g ref="char:EOLhyphen"/>ing his Forces wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h thoſe of Prince <hi>Rupert,</hi> in 1641. and ſo marching coura<g ref="char:EOLhyphen"/>giouſly to <hi>Litch<g ref="char:EOLhyphen"/>field,</hi> attack'd the Rebels at <hi>Hopton-Heath,</hi> where he was kill'd as brav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly fighting for his King.</p>
+               <p>
+                  <figure>
+                     <figDesc>portrait of Earl of Northampton</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>
+                     <hi>ON</hi> Hopton-Heath <hi>this Earl was ſlain, His King and Nation to regain,</hi>
+                  </l>
+                  <l>
+                     <hi>Nor were his Tons, thoſe Noble Lords.</hi>
+                  </l>
+                  <l>
+                     <hi>Leſs Famous for their warlike Swords. The valiant Heart of this bravo Sire,</hi>
+                  </l>
+                  <l>
+                     <hi>Was bent to raiſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> Sov'roign higher,</hi>
+                  </l>
+                  <l>
+                     <hi>The Sons did his Example take, and fought for good K. Charles</hi>'s <hi>ſake.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="lord">
+               <pb n="9" facs="tcp:108734:5"/>
+               <p>THE Lord <hi>Capel</hi> w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s one of thoſe Rov<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lliſts, who in Defence of his injur'd Ma<g ref="char:EOLhyphen"/>jeſty, endur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d the Hardſh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s of the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng Si<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge of <hi>Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>cheſter,</hi> he was th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re taken by the Fanati<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks who af<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erward emb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ued thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Hands i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Blood, by bri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ging him to the Ax and B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ock.</p>
+               <p>
+                  <figure>
+                     <figDesc>portrait of Lord Capel</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>
+                     <hi>TO obſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rve the Champion of his Lord,</hi>
+                  </l>
+                  <l>
+                     <hi>The greateſt Wonder does afford.</hi>
+                  </l>
+                  <l>
+                     <hi>Who <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ught for to anticipate</hi>
+                  </l>
+                  <l>
+                     <hi>H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s Royal Martyn's Rigid Fate;</hi>
+                  </l>
+                  <l>
+                     <hi>But in the ſame he loſt his Breath,</hi>
+                  </l>
+                  <l>
+                     <hi>And dy'd for him a Martyr's Death:</hi>
+                  </l>
+                  <l>
+                     <hi>Upon the Block h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> met his D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>om;</hi>
+                  </l>
+                  <l>
+                     <hi>And wore the Crown of Martyrdom.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="baronet">
+               <p>SIR <hi>Henry Slingsby,</hi> in the third Year of <hi>Oliver</hi>'s U<g ref="char:EOLhyphen"/>ſurpation, was brought be<g ref="char:EOLhyphen"/>fore the bloody Court of In<g ref="char:EOLhyphen"/>juſtice, and charged with Treaſon for endeavouring to reſto<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e his lawful Sovereign King <hi>Charles</hi> the Second to his Father's Throne, had Judgment given againſt him, and ſuffered accordingly, to the Grief of every loyal Briton. So ſtrong were the Rebels at that time, that they murdered whom they plea<g ref="char:EOLhyphen"/>ſed, that was againſt their damnable Proceedings, con<g ref="char:EOLhyphen"/>trary to the Laws of God.</p>
+               <p>
+                  <figure>
+                     <figDesc>portrait of Sir Henry Slingsby</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>
+                     <hi>BRave</hi> Slinsby, <hi>thou didſt plainly ſee,</hi>
+                  </l>
+                  <l>
+                     <hi>The Parliament's Audacity;</hi>
+                  </l>
+                  <l>
+                     <hi>And did reſent thy Monarch</hi>'s <hi>Wrongs,</hi>
+                  </l>
+                  <l>
+                     <hi>By their baſe Hands and baſer Tongues:</hi>
+                  </l>
+                  <l>
+                     <hi>His Conſcience made him not abide</hi>
+                  </l>
+                  <l>
+                     <hi>The<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Meaſures, but cleav'd to the Side;</hi>
+                  </l>
+                  <l>
+                     <hi>Of his impoſed injur'd King.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="earl">
+               <pb facs="tcp:108734:6"/>
+               <p>THE Earl of <hi>Stafford</hi> in his time was a fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thful Mi<g ref="char:EOLhyphen"/>niſter of State to his King, for which the Rump Parlia<g ref="char:EOLhyphen"/>ment reſolved for to murder him; and in deed they be<g ref="char:EOLhyphen"/>headed him on <hi>Tower-Hill</hi> on the 12th of <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y,</hi> 16<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1. to the great Grief of h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Royal Sovereign.</p>
+               <p>
+                  <figure>
+                     <figDesc>portrait of Earl of Stafford</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>
+                     <hi>OH,</hi> Stafford! <hi>Thy dear only King,</hi>
+                  </l>
+                  <l>
+                     <hi>Lamented thy ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d Suffering;</hi>
+                  </l>
+                  <l>
+                     <hi>And, at his Death, thy Fate was ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ch,</hi>
+                  </l>
+                  <l>
+                     <hi>As g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iev'd his Conſcience very much.</hi>
+                  </l>
+                  <l>
+                     <hi>If He, who was both King and Saint,</hi>
+                  </l>
+                  <l>
+                     <hi>Did thus thy Life and Goodneſs paint.</hi>
+                  </l>
+                  <l>
+                     <hi>Encomiums then thou needeſt none,</hi>
+                  </l>
+                  <l>
+                     <hi>Enough! — The Thing by</hi> Charles <hi>is done.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="duke">
+               <p>DUke <hi>Hamilton</hi> entring in<g ref="char:EOLhyphen"/>to <hi>England</hi> with an Army for H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Majeſty's Service, was met at <hi>Preſton</hi> in <hi>Lancaſhire,</hi> by <hi>Cromwell</hi> and <hi>Lambert,</hi> where he fought three Bat<g ref="char:EOLhyphen"/>tles, tho' worſted in all, was taken at <hi>
+                     <g ref="char:V">Ʋ</g>xeter,</hi> ſent to the <hi>Tower,</hi> where about 6 Weeks after his Royal Maſter, he was beheaded, together with the Earl of <hi>Holland,</hi> and the Lord <hi>Capel.</hi> By this Duk<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'s Death, the Treach<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry of the <hi>Fàlſe Scotch</hi> is very remarka<g ref="char:EOLhyphen"/>ble, in betraying this Noble<g ref="char:EOLhyphen"/>man in Pretence of Loyalty.</p>
+               <p>
+                  <figure>
+                     <figDesc>portrait of Duke Hamilton</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>
+                     <hi>WHEN</hi> Scotland <hi>they had ſold their King,</hi>
+                  </l>
+                  <l>
+                     <hi>Conſcience their wicked Minds did ſting<g ref="char:punc">▪</g>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>And ſtrait an Army muſtered</hi>
+                  </l>
+                  <l>
+                     <hi>Making this Noble DUKE their Head:</hi>
+                  </l>
+                  <l>
+                     <hi>But Rebels were triumphant grown,</hi>
+                  </l>
+                  <l>
+                     <hi>And conquer'd him, near</hi> Preſton <hi>Town;</hi>
+                  </l>
+                  <l>
+                     <hi>Brought him to</hi> London, <hi>where his Head</hi>
+                  </l>
+                  <l>
+                     <hi>Was from his Shoulders ſevered.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="colonel">
+               <pb n="11" facs="tcp:108734:6"/>
+               <p>COlonel <hi>Penruddock,</hi> a Gen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tleman of great Learning and Valour, and approved Loyalty, was put to Death by that Arch-Traytor <hi>Oliver Cromwell</hi> in the firſt Year of his Uſur<g ref="char:EOLhyphen"/>pation. At his Tryal, no Man could plead with more Senſe and Eloquence than he d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d; neither could any die with more Chri<g ref="char:EOLhyphen"/>ſtian Reſignation and Un<g ref="char:EOLhyphen"/>dauntedneſs; In a word, he had every good Quali<g ref="char:EOLhyphen"/>fication in him; both as a Warrior a Gentleman, and a Chriſtian being un<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver<g ref="char:EOLhyphen"/>ſally lament<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d.</p>
+               <p>
+                  <figure>
+                     <figDesc>portrait of Colonel Penruddock</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>
+                     <hi>VAlour and Learning made him Great,</hi>
+                  </l>
+                  <l>
+                     <hi>A Bleſſing both to Church and State:</hi>
+                  </l>
+                  <l>
+                     <hi>On Articles he did ſurrender,</hi>
+                  </l>
+                  <l>
+                     <hi>But they did prove a mean Defender:</hi>
+                  </l>
+                  <l>
+                     <hi>For him they found, 'gainſt Law and Reaſon.</hi>
+                  </l>
+                  <l>
+                     <hi>At</hi> Exon, <hi>guilty of High-Treaſon,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet no Man at his Tryal pleaded</hi>
+                  </l>
+                  <l>
+                     <hi>Better than he; but was B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>headed.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="knight">
+               <p>SIR <hi>Charles Lucas</hi> was <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> valiant Knight, who ſer<g ref="char:EOLunhyphen"/>ved his King and Country a<g ref="char:EOLhyphen"/>gainſt the Rebels. He was one of thoſe who bravely defended <hi>Coloheſter</hi> againſt them to the laſt Ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>remity, that they had not Horſe. Fleſh enough to feed them one Day longer when up<g ref="char:EOLhyphen"/>on Surrender he was ſhot to Death, on Pretence of not keeping his word with <hi>Fair-fax,</hi> General of the Rebels. But the true Relation was for his b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing untainted in his Loyalty and being a<g ref="char:EOLhyphen"/>gainſt ſuch bloody Regicides.</p>
+               <p>
+                  <figure>
+                     <figDesc>portrait of Sir Charles Lucas</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>
+                     <hi>NOR was this worthy valiant Knight,</hi>
+                  </l>
+                  <l>
+                     <hi>Amaz'd with Horror at Death's Sight:</hi>
+                  </l>
+                  <l>
+                     <hi>That Cauſe, next</hi> JESUS' <hi>Suffering,</hi>
+                  </l>
+                  <l>
+                     <hi>Did help to take away the Sting.</hi>
+                  </l>
+                  <l>
+                     <hi>With chearful Mind<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> reſigned Heart,</hi>
+                  </l>
+                  <l>
+                     <hi>Submitted to the fàtal Dart:</hi>
+                  </l>
+                  <l>
+                     <hi>And thus the bléeding Worthy fell,</hi>
+                  </l>
+                  <l>
+                     <hi>By Imps, the very Spams of Hell.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="knight">
+               <pb n="12" facs="tcp:108734:7"/>
+               <p>SIR <hi>George Liſle</hi> was ano<g ref="char:EOLhyphen"/>ther noble Knight, and Companion of Sir <hi>Charles Luc<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s</hi> in h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Life a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath. For he was at <hi>Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cheſter</hi> at the Surrender and was ſhot to D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath with him; on p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>tence of having directed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he ſhooting of poyl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nons Bul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ets who to<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k up A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ms<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gainſt their King co<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ra<g ref="char:EOLhyphen"/>ry to the Laws or GOD and Man. This w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s a lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>al Subj<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct made a Victim to the Fury of Trayto<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s re<g ref="char:EOLhyphen"/>gardleſs of every thing ſa<g ref="char:EOLhyphen"/>cred and pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ticularly the <hi>L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rd</hi>'s <hi>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ointed.</hi>
+               </p>
+               <p>
+                  <figure>
+                     <figDesc>portrait of Sir George Lisle</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>
+                     <hi>BRave</hi> LISLE <hi>was Cavalier enough,</hi>
+                  </l>
+                  <l>
+                     <hi>Of Loyal Faith, gav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gnant Pro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s</hi>
+                  </l>
+                  <l>
+                     <hi>At</hi> Colcheſter, <hi>when ſh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> to Death,</hi>
+                  </l>
+                  <l>
+                     <hi>He glorred in his l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt Br<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ath<g ref="char:punc">▪</g>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>Shrunk not, but bravely Juſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>fy'd</hi>
+                  </l>
+                  <l>
+                     <hi>The Heavenly C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uſe for which he dy'd;</hi>
+                  </l>
+                  <l>
+                     <hi>That Cauſe, which ever yields Renown,</hi>
+                  </l>
+                  <l>
+                     <hi>His Country, and his K<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ng <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd Crown.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="earl">
+               <p>THE Ea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l of <hi>Derby</hi> like<g ref="char:EOLhyphen"/>wiſe fell a Sacri<g ref="char:EOLhyphen"/>fice to their Cru<g ref="char:EOLhyphen"/>elty, who behea<g ref="char:EOLhyphen"/>ded him at <hi>Bol<g ref="char:EOLhyphen"/>ton</hi> in <hi>Lanca<g ref="char:EOLhyphen"/>ſhire</hi> the 15th of <hi>October,</hi> 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>51. for his firm Ad<g ref="char:EOLhyphen"/>herence to his Majeſty King <hi>Charles</hi> the Se<g ref="char:EOLhyphen"/>cond, who was forced to ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lter himſelf in the <hi>Reyol</hi> Oak from the Rump.</p>
+               <p>
+                  <figure>
+                     <figDesc>portrait of Earl of Derby</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>
+                     <hi>IN Factions</hi> Bolton, <hi>this Earl dy'd,</hi>
+                  </l>
+                  <l>
+                     <hi>Tho' 'gainſt the Law of Nations try'd,</hi>
+                  </l>
+                  <l>
+                     <hi>The Church was bleſſed with his Sm<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>.</hi>
+                  </l>
+                  <l>
+                     <hi>Who it Eſtabliſh'ſt in</hi> Manx. Iſle.</l>
+                  <l>
+                     <hi>Thus Great and Good, by cruel</hi>
+                  </l>
+                  <l>
+                     <hi>Expos'd to Villains, thou in State,</hi>
+                  </l>
+                  <l>
+                     <hi>The Fatal Ax his Head did ſever,</hi>
+                  </l>
+                  <l>
+                     <hi>Whoſe Soul will</hi> reign <hi>in Heaven for ever.</hi>
+                  </l>
+               </lg>
+            </div>
+            <pb facs="tcp:108734:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
